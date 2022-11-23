@@ -1,0 +1,10 @@
+{
+    "token": "s",
+    "prefix": "]",
+    "developer_name": "UPR",
+    "color" : "BLUE",
+    "ownerID" : "", 
+    "DEFAULT_COLOR": "RED",
+        "mongooseConnectionString":""
+   
+}
